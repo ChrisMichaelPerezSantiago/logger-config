@@ -1,7 +1,7 @@
 {
   "name": "logger-config",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "packageManager": "pnpm@7.2.1",
   "description": "My Custom Logger (consola library) Configuration.",
   "author": "Chris Michael <chrisperezsantiago1@gmail.com>",
@@ -11,9 +11,8 @@
     "url": "git+https://github.com/ChrisMichaelPerezSantiago/logger-config.git"
   },
   "keywords": [
-    "deepPropAccess",
-    "propAccess",
-    "props"
+    "consola",
+    "logger-config"
   ],
   "sideEffects": false,
   "exports": {
