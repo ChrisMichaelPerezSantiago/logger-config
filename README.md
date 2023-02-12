@@ -14,6 +14,11 @@ logger({ type: "error", message: new Error("bad request") });
 logger({ message: [1, 2, 3, 4, 5] });
 ```
 
+# Run Script
+```sh
+yarn start
+```
+
 ## **:handshake: Contributing**
 
 - Fork it!
