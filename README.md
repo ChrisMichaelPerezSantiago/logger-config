@@ -53,4 +53,4 @@ _*Chris M. Perez*_
 
 ---
 
-Copyright ©2023 [propaccess](https://github.com/ChrisMichaelPerezSantiago/propaccess).
+Copyright ©2023 [propaccess](https://github.com/ChrisMichaelPerezSantiago/logger-config).
