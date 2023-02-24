@@ -58,4 +58,4 @@ _*Chris M. Perez*_
 
 ---
 
-Copyright ©2023 [propaccess](https://github.com/ChrisMichaelPerezSantiago/logger-config).
+Copyright ©2023 [logger-config](https://github.com/ChrisMichaelPerezSantiago/logger-config).
